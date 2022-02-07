@@ -1,0 +1,15 @@
+server:
+  port: 8081
+spring:
+  security:
+    user:
+      name: user
+      password : secret123
+    oauth2:
+       client-id: user
+       client-secret: secret123
+
+
+
+
+
